@@ -336,6 +336,10 @@ lib64/libfp_client.so:vendor/lib64/libfp_client.so|242b8a91012d983de0b8deea1d2de
 lib64/libfpservice.so:vendor/lib64/libfpservice.so|02dabe4cce9639b6bb6c02f1cffbf21b4814a77f 
 lib64/libfpjni.so:vendor/lib64/libfpjni.so|5b9b37c8b11ac13fa6bf701b21d853e135b34be7
 
+# Fingerprint - add for gx_fpd
+lib/libunwind.so|751c87e8d21929733a10640737bb628671e2199d
+lib64/libunwind.so|ca0bf7b207a777a1da584f79c9d82f3af89e13dd
+
 # NFC - Hex edit from z17 mini (nx569j)
 lib64/hw/nfc_nci.bcm2079x.default.so:vendor/lib64/hw/nfc_nci.bcm2079x.default.so|265bfb5be9efa535596999b233b513011c5cb3bd
 vendor/firmware/Generic_unsigned_70ms.ncd|8f4e41a64d2b2e414ebf8ea55ad8ebc10ebccd20
