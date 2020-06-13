@@ -17,7 +17,7 @@
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-mokee
+    $(LOCAL_PATH)/overlay-lineage
 
 # call the proprietary setup
 $(call inherit-product-if-exists, vendor/nubia/nx589j/nx589j-vendor.mk)
